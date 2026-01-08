@@ -78,7 +78,7 @@ This Sinatra prototype will serve as the foundation for a full Ruby on Rails reb
 
 The Rails version will address scalability and production concerns that are intentionally out of scope for this prototype.
 
-How To Run Locally
+## How To Run Locally
 ```
 bundle install
 ruby app.rb
