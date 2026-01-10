@@ -10,6 +10,6 @@ body {
     background-color: var(--background-color);
 }
 
-h2 {
+h1 {
     color: var(--header-color);
 }
