@@ -4,3 +4,12 @@
     --header-color: #de369d;
     --text-color: #6f5e76; 
 }
+
+/* BODY */
+body {
+    background-color: var(--background-color);
+}
+
+h2 {
+    color: var(--header-color);
+}
